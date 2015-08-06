@@ -1,0 +1,4 @@
+701	Station_Name	Arrival_Time	Departure_Time	S_Chair	Snigdha
+1	CHITTAGONG	-	06:40	0	0
+2	BIMAN_BANDAR	12:15	12:18	320	610
+3	DHAKA	13:00	-	320	610
